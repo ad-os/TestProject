@@ -1,0 +1,16 @@
+{
+	"primary_user": {
+		"github_user_name": "garvitdelhi",
+		"github_email": ""
+	},
+	"secondary_users": [
+		{
+			"github_user_name": "eightnoteight",
+			"github_email": ""
+		},
+		{
+			"github_user_name": "",
+			"github_email": ""
+		}
+	]
+}
